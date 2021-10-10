@@ -1,6 +1,6 @@
 # Use case model
 ## 1 Use Case Diagram
-https://github.com/Yzpride/Mystuff/blob/master/UseCaseDiagram.jpg
+![alt text](https://github.com/Yzpride/Mystuff/blob/master/UseCaseDiagram.jpg)
 
 ## 2 Use case descriptions
 As can be seen from the use case diagram, there is only one user (i.e. George P. Burdell) and below are the descriptions for each use case:
